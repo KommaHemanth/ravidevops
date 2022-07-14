@@ -2,4 +2,4 @@ curl -SL https://github.com/docker/compose/releases/download/v2.6.1/docker-compo
 
 sudo chmod +x /usr/local/bin/docker-compose
 
-docker-compose version
+docker compose version
