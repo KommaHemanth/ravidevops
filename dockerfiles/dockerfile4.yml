@@ -1,6 +1,0 @@
-FROM ubuntu:trusty
-LABEL maintainer="ravitechnologies.cloud@gmail.com"
-RUN apt-get update
-ENV name ravitechnologies
-ENTRYPOINT echo "welcome to $name"
-
